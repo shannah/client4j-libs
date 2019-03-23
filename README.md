@@ -1,3 +1,3 @@
-# jClient Libraries Repository
+# Client4J Libraries Repository
 
-This repository contains trusted libraries for jClient.
+This repository contains trusted libraries for Client4J.
